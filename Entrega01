@@ -57,3 +57,16 @@ for iFc = 1:length(vtFc)
     disp(['Frequência da portadora = ' num2str(dFc)]);
     disp(['Raio = ' num2str(raiomin)]);
 end
+
+O Resultado dos raios para cada frequência estão mostrado abaixo.
+>> Outage_Raio
+Frequência da portadora = 800
+Raio = 10600
+Frequência da portadora = 900
+Raio = 9800
+Frequência da portadora = 1800
+Raio = 5800
+Frequência da portadora = 1900
+Raio = 5600
+Frequência da portadora = 2100
+Raio = 5200
